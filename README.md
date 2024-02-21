@@ -10,7 +10,7 @@ If we want to become a data scientist or we want to do characterization as a dat
 So, the very first use case is exactly of Machine Learning on which I am to cover the use case of Airline Industry. Basically, I have to analyze that huge chunk of data and from that data, I have to extract some meaningful insights.
 
 Some meaningful insight of that, I have found:
-
+ 
 * What exactly can be the future of airlines on different sources.
 * What exactly the arrival time of that particular flight or what is a departure time
 * What exactly the data journey
